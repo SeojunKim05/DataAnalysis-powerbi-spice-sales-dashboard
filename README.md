@@ -19,28 +19,26 @@ This project uses Power BI to analyze sales data for five spices across differen
 ## 📊 Dashboard Overview
 
 ### 🟢 Page 1: Overall Dashboard
-This landing page provides a quick snapshot of spice sales using five key visualizations:
-- **Clustered Bar Chart** (Top Left): Average sales by product per quarter.
+This landing page provides a quick snapshot of spice sales using four key visualizations:
+- **Funnel Chart** (Top Left): Average sales by product.
 - **Matrix Table** (Top Right): Maximum sales by product and quarter.
-- **Card Visualization** (Middle Bottom): Total sum of all sales.
-- **Stacked Bar Chart** (Bottom Right): Total sales by product.
-- **Slicer Filters**: Clickable filters for products, regions, and quarters.
+- **Card Visualization** (Middle Bottom): Total sum of sales at Central region.
+- **Treemaps** (Bottom Right): Total sales by product.
 
-### ⚫️ Page 2: Central Region Focus (Black & White Theme)
-Focuses on the Central region with four visualizations:
+### ⚫️ Page 2: Max Sales in Central Region
 - **Matrix Table** (Top Left): Sum of sales by quarter and product.
 - **Pie Chart** (Top Right): Percentage breakdown of sales by product and quarter.
 - **Treemap** (Bottom Right): Sum of sales by product as proportional rectangles.
 - **Card Visualization**: Regional totals.
 
-### 🟡 Page 3: Average Sales View
-- **Clustered Bar Chart** (Top Left): Average sales by product per quarter.
+### 🔵 Page 3: Average Sales in North Region
+- **Funnel Chart** (Left): Average sales by product per quarter.
 - **Gauge Chart** (Top Right): Compares product average sales to overall max average.
 - **Treemap** (Bottom Right): Average sales per product subdivided by quarter.
 
-### 🔴 Page 4: Max Sales in South Region
-- **Donut Chart** (Background): Max sales per product with percentage, without quarter breakdown.
-- **Bar Chart** (Bottom Left): Breakdown of max sales by product.
+### 🟣 Page 4: Max Sales in South Region
+- **Doughnut Chart** (Background): Max sales per product with percentage with quarter breakdown.
+- **Multi Row Card** (Bottom Left): Breakdown of max sales by product.
 - **Matrix Table** (Bottom Right): Max sales by quarter, with quarterly and total maxes.
 
 ## 🔁 Interactivity
@@ -58,3 +56,15 @@ All visualizations in the original Power BI file are interactive. Users can clic
 ## 📌 Notes
 
 Due to licensing changes and the transition to Microsoft Fabric, direct publishing of the interactive dashboard is unavailable. The PDF serves as a visual reference for the interactive report.
+
+---
+
+## 🤝 Contact
+
+Got feedback or want to collaborate?
+
+📬 [Open an issue](https://github.com/SeojunKim05/PracticeProjects/issues)  
+💼 [LinkedIn](https://www.linkedin.com/in/seojun-kim-089b7b339)  
+📫 Email: kseojun05@gmail.com
+
+---
