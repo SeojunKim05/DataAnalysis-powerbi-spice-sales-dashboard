@@ -13,7 +13,7 @@ This project uses Power BI to analyze sales data for five spices across differen
 
 
 - **`Power BI Spice Sales Dash.pdf`**  
-  The original Power BI file used to create the report and dashboards.
+  The Overall Dashboard
 
 
 ## 📊 Dashboard Overview
