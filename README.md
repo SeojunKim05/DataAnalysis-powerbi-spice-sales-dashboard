@@ -2,7 +2,7 @@
 
 This project uses Power BI to analyze sales data for five spices across different regions and quarters. The goal is to create an interactive dashboard and multiple views to explore trends in total, average, and maximum sales, both overall and region-specific.
 
-## 📂 Files Included
+## 📂 Repository Contents
 
 - **`Outlander Spice Analysis Report.xlsx`**  
   The raw dataset containing sales records categorized by region (Central, East, North, South, West), product (Anise Seeds, Basil Leaf, Cloves, Chives, Cassia), quarter, and sales figures.
